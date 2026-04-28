@@ -1,4 +1,4 @@
-# Hola, soy Franco 👋
+# Hi there! 👋
 
 ### 📊 Mis Estadísticas
 
