@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 <div align="center">
   
 # 👋 Hi, I'm Franco | Hola, soy Franco
+=======
+# Hi there! 👋
+>>>>>>> 45936fda0c9bfbc61c5113ea11727b3107acec57
 
 ### Backend Developer | Linux Enthusiast | Clean Code Advocate
 
