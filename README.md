@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 <div align="center">
   
 # 👋 Hi, I'm Franco | Hola, soy Franco
-=======
-# Hi there! 👋
->>>>>>> 45936fda0c9bfbc61c5113ea11727b3107acec57
 
 ### Backend Developer | Linux Enthusiast | Clean Code Advocate
 
@@ -17,6 +13,9 @@
 
 ---
 
+<!-- Si tu usuario de WakaTime es "Kenkyoo", se vería así -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kenkyoo&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="WakaTime Stats" />
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -25,9 +24,11 @@
 |:---:|:---:|
 
 ### 🏆 GitHub Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kenkyoo&theme=catppuccin_mocha&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔥 Current Streak
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kenkyoo&theme=catppuccin_mocha&hide_border=true&background=1e1e2e&stroke=cba6f7&ring=94e2d5&fire=f38ba8)](https://git.io/streak-stats)
 
 </div>
@@ -64,13 +65,13 @@
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|:--------|:------------|:------------|
-| **[Stanford Code in Place](https://github.com/Kenkyoo/Stanford-Code-in-place)** | Complete coursework from Stanford's CS106A - 6 weeks of Python, Karel, graphics, and data structures. Includes weekly assignments, section problems, and final project. | `Python` `Karel` `Graphics` |
-| **Local Library** | Library management system with catalog, author management, and loan status tracking. | `Django` `PostgreSQL` |
-| **Flask Bookmarks** | Notes and bookmarks app with user authentication and PostgreSQL database. | `Flask` `PostgreSQL` `Jinja` |
-| **React Image Gallery** | Interactive visual gallery with Firebase storage integration. | `React` `Firebase` `TypeScript` |
-| **Dotfiles & Customization** | Detailed configuration for XFCE environment with Polybar and Conky. | `Linux` `Bash` `XFCE` |
+| Project                                                                         | Description                                                                                                                                                             | Tech Stack                      |
+| :------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------ |
+| **[Stanford Code in Place](https://github.com/Kenkyoo/Stanford-Code-in-place)** | Complete coursework from Stanford's CS106A - 6 weeks of Python, Karel, graphics, and data structures. Includes weekly assignments, section problems, and final project. | `Python` `Karel` `Graphics`     |
+| **Local Library**                                                               | Library management system with catalog, author management, and loan status tracking.                                                                                    | `Django` `PostgreSQL`           |
+| **Flask Bookmarks**                                                             | Notes and bookmarks app with user authentication and PostgreSQL database.                                                                                               | `Flask` `PostgreSQL` `Jinja`    |
+| **React Image Gallery**                                                         | Interactive visual gallery with Firebase storage integration.                                                                                                           | `React` `Firebase` `TypeScript` |
+| **Dotfiles & Customization**                                                    | Detailed configuration for XFCE environment with Polybar and Conky.                                                                                                     | `Linux` `Bash` `XFCE`           |
 
 ---
 
@@ -89,20 +90,20 @@
 
 ## 📈 Weekly Development Breakdown
 
-<!-- Esta sección se puede automatizar con WakaTime si lo deseas -->
-```text
-Python      ████████████████████░  85%
-JavaScript  ████░░░░░░░░░░░░░░░░░  15%
-TypeScript  ██░░░░░░░░░░░░░░░░░░░   8%
-SQL         ██░░░░░░░░░░░░░░░░░░░   8%
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
-📫 Let's Connect | Conectemos
 
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+### 📫 Let's Connect | Conectemos
 
-⭐ Feel free to explore my repositories and reach out for collaborations!
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kenkyoo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+
+---
+
+⭐ Feel free to explore my repositories and reach out for collaborations!  
 📌 Última actualización: Mayo 2026
-</div> ```
+
+</div>
